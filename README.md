@@ -66,7 +66,15 @@ A collaborative C project to build a simple UNIX command-line interpreter. The r
 ### [ALX Software Engineering Coursework](https://github.com/Famous3262?tab=repositories)
 A collection of programming and systems-engineering exercises covering areas such as C, Python, JavaScript, backend development, algorithms and Linux.
 
-> Other repositories are at different stages of development. I’ll add them here as they become documented, demonstrable projects.
+## Development Projects
+
+### [GlowMeal — Meal Planner](https://github.com/Famous3262/Meal-Planner)
+A React Native and Expo application with onboarding, daily meal planning, recipe browsing, a weekly timetable and a grocery-list view. The project is under active development.
+
+### [White Dominion](https://github.com/Famous3262/white_dominion)
+An early-stage Next.js codebase exploring an AI-assisted fashion product concept. The repository is currently a development scaffold; the full product is not yet complete.
+
+> I feature projects according to their actual implementation status. Planned ideas are not presented as completed software.
 
 ## Current Interests
 
