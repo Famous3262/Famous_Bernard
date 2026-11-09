@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# FAMOUS BERNARD
+<img src="assets/profile-banner.svg" alt="Famous Bernard — Software Engineer, AI and Automation" width="100%" />
 
 ### Software Engineer · AI & Automation Enthusiast · Tech Entrepreneur
 
